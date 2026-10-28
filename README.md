@@ -6,6 +6,3 @@
   <li>like to code</li>
   <li>Aspire to become a scientist</li>
 </ul>
-
-<h3>Contact Me</h3>
-Discord: AdiOS#1752
